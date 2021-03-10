@@ -1,0 +1,4 @@
+apiVersion: v0alpha
+meta:
+recipes:
+  - pumpkin-soup

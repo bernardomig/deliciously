@@ -1,0 +1,27 @@
+apiVersion: v0alpha
+meta:
+  name: Pumpkin Soup
+  author: John Doe
+  description: |
+    A combination of lean ground beef and apple cider vinegar makes this sloppy Joe recipe slightly sweet and slightly tart.
+  yields: 4
+  photos:
+    - https://source.unsplash.com/L06kEGB3SlU/800x600
+  tags: [diabetic, gluten-free, lactose-free, low-fat]
+ingredients:
+  - name: tomato
+    quantity: 200gr
+  - name: pumpkin
+    quantity: 500gr
+  - name: onion
+    quantity: 100gr
+  - name: garlic
+    quantity: 1
+steps:
+  - text: Peel and cut the pumpkin, tomato, onion, and garlic
+  - text: Place all in pressure cooker and cook till two whistles
+  - text: After releasing pressure place all material in a plate
+  - text: Cool down properly and blend it in puree
+  - text: Cook this puree in a pan for two minutes and mix powdered black pepper
+  - text: Garnish with cream (if you want to garnish) and serve hot
+    optional: true
